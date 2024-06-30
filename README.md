@@ -23,4 +23,3 @@ and it should be run on [`http://localhost:3000`](http://localhost:3000)
 
 [`amirrezamah1998@gmail.com`](mailto:amirrezamah1998@gmail.com)
 
-[`+989229910270`](tel:+989229910270)
